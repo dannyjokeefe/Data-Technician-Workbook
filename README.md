@@ -35,3 +35,12 @@ The project involved:
 - Communicating data insights clearly through visuals
 - Combining technical analysis with written storytelling
 - Presenting results professionally for a business audience
+
+## 📬 Contact
+
+Let’s connect and collaborate!  
+[LinkedIn](https://www.linkedin.com/in/dannyokeefedataanalyst) • [GitHub](https://github.com/dannyjokeefe)
+
+---
+**Created by:** *Danny O'Keefe*  
+**Date:** June 2025
